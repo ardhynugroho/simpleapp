@@ -1,0 +1,5 @@
+Health check
+---
+responses:
+    200:
+        description: alive
