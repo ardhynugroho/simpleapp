@@ -3,7 +3,7 @@ This is simple Flask app
 1. Clone repo
     ```
     git clone __THIS__REPO__
-    cd simpleapp
+    cd simpleapp/app
     ```
 1. Prepare virtual environment
     ```
